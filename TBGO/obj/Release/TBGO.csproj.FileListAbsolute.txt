@@ -1,0 +1,15 @@
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\bin\Release\TBGO.exe.config
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\bin\Release\TBGO.exe
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\bin\Release\TBGO.pdb
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\bin\Release\Stone.dll
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\bin\Release\Stone.pdb
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\bin\Release\Stone.dll.config
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.csproj.AssemblyReference.cache
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.Chessboard_Information.resources
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.Form1.resources
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.Properties.Resources.resources
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.csproj.GenerateResource.cache
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.csproj.CoreCompileInputs.cache
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.csproj.CopyComplete
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.exe
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\TBGO\obj\Release\TBGO.pdb

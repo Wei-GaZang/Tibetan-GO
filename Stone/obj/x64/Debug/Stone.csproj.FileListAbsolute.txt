@@ -1,0 +1,12 @@
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\bin\x64\Debug\Stone.dll.config
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\bin\x64\Debug\Stone.dll
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\bin\x64\Debug\Stone.pdb
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\bin\x64\Debug\EntityFramework.dll
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\bin\x64\Debug\EntityFramework.xml
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\obj\x64\Debug\Stone.csproj.AssemblyReference.cache
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\obj\x64\Debug\Stone.csproj.CoreCompileInputs.cache
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\obj\x64\Debug\Stone.csproj.CopyComplete
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\obj\x64\Debug\Stone.dll
+E:\WeiRiWa\藏棋人机版\藏棋人机版\TBGO\Stone\obj\x64\Debug\Stone.pdb
